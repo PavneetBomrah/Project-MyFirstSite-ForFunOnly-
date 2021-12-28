@@ -28,8 +28,8 @@ a:active {
   text-decoration: none;
 }
 body{
-	background-position:center;
-    background-image:url(logo.jpg);
+    background-position: center;
+    background-image: url(logo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
